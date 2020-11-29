@@ -2,7 +2,7 @@ entrada1 =float(input("Digite Salário:"))
 entrada2 = float(input("Outras entradas"))
 renda = entrada1 + entrada2
 
-filhos=2
+filhos= int(input("Digite o número de filhos"))
 desp_aluguel = float(input("Aluguel:"))
 desp_agua = float(input("Conta de água:"))
 desp_luz = float(input("Conta de luz:"))
